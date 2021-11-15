@@ -1,2 +1,2 @@
-# ReactJS-Course-2
+# ReactJS-Course
 Created with CodeSandbox
