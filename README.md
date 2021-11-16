@@ -1,2 +1,2 @@
 # ReactJS-Course
-Created with CodeSandbox
+Following a course presented by Bob Ziroll
