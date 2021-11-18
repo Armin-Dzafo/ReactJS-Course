@@ -1,9 +1,0 @@
-div {
-  box-shadow: 2px 3px;
-}
-
-div input,
-div p {
-  display: inline-block;
-  margin: 10px 0px 10px 10px;
-}
